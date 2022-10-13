@@ -1,12 +1,11 @@
 {
   "expo": {
-    "name": "LoginForm",
-    "slug": "LoginForm",
+    "name": "expo-checkbox",
+    "slug": "expo-checkbox",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "scheme":"com.ramyashree4856.LoginForm",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -22,7 +21,6 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "com.ramyashree4856.LoginForm",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
